@@ -1,0 +1,100 @@
+    body {
+        background-color: grey;
+    }
+    
+    .class {
+        border: 6px solid red;
+        background-color: white;
+        border-radius: 17px;
+        text-align: center;
+        text-shadow: 1px 2px #FF0000;
+    }
+    
+    .c1 {
+        color: rgb(216, 7, 7);
+        margin-left: 30%;
+        margin-right: 40%;
+    }
+    
+    .q {
+        border: 7px solid green
+    }
+    
+    .c2 {
+        height: 230px;
+        width: 280px;
+        color: rgb(68, 4, 68);
+    }
+    
+    .c3 {
+        position: absolute;
+        top: 210px;
+        right: 50px;
+        height: 230px;
+        width: 280px;
+    }
+    
+    .c4 {
+        height: 230px;
+        width: 280px;
+        margin: 71px 0px 10px 0px;
+        text-align: justify;
+        font-size: small;
+    }
+    
+    .c5 {
+        margin: -252px 10px 10px 78%;
+        height: 230px;
+        width: 280px;
+    }
+    
+    .re {
+        position: fixed;
+        bottom: 45px;
+        left: 40%;
+        border: 6px solid red;
+        background-color: rgb(19, 253, 19);
+        border-radius: 17px;
+        color: maroon;
+        width: 350px;
+        height: 50px;
+        padding: 10px 0px 0px 20px;
+        text-align: center;
+    }
+    
+    .l {
+        border-radius: 10px;
+        background: red;
+    }
+    
+    .ki {
+        border: 5px solid rgb(49, 7, 49);
+        background-color: rgb(3, 99, 3);
+        margin: 19px 20%;
+        text-align: center;
+        height: 594px;
+    }
+    
+    .j {
+        background-color: greenyellow;
+        float: left;
+        height: 250px;
+        width: 49%;
+        padding: 0px;
+        margin-left: 5px;
+    }
+    
+    .kl {
+        font-size: larger;
+    }
+    
+    .md {
+        clear: left;
+        background-color: greenyellow;
+        height: 235px;
+        width: 99%;
+        padding: 0px;
+        margin-left: 5px;
+        margin-top: 280px;
+        padding-top: 15px;
+    }
